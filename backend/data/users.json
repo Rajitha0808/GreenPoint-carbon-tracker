@@ -1,0 +1,53 @@
+[
+  {
+    "id": "54e7e6de-dd88-49d6-924c-cf6fe92b5d69",
+    "username": "eco_warrior",
+    "email": "demo@greenpoint.com",
+    "password": "$2a$10$75p763BCOBD9Nb.GrNKjIuXx7CwJ48z30m6HL6uGI6qCHIPOTQb46",
+    "totalPoints": 850,
+    "badges": [
+      "🌱 Eco Beginner",
+      "🌿 Green Starter",
+      "🌳 Eco Warrior"
+    ],
+    "createdAt": "2026-03-10T15:36:30.732Z"
+  },
+  {
+    "id": "8c6c695a-752c-472c-aeb9-df693100fef7",
+    "username": "green_champion",
+    "email": "champion@greenpoint.com",
+    "password": "$2a$10$E7habAbCgS5OSjUByEOk8uWOvxfhXdIPZ1UnuLxsAmH/8uBeLLQoi",
+    "totalPoints": 1200,
+    "badges": [
+      "🌱 Eco Beginner",
+      "🌿 Green Starter",
+      "🌳 Eco Warrior",
+      "🌍 Planet Protector",
+      "🏆 Climate Champion"
+    ],
+    "createdAt": "2026-03-10T15:36:30.884Z"
+  },
+  {
+    "id": "e5cd04b1-99ce-4cc4-ac9b-af05d13ad24f",
+    "username": "sustainability_pro",
+    "email": "pro@greenpoint.com",
+    "password": "$2a$10$DWN/WjBgr1dAik/gXsYWjeey9KVmeJD69ZUfgIT2w.G2vUewRIBli",
+    "totalPoints": 450,
+    "badges": [
+      "🌱 Eco Beginner",
+      "🌿 Green Starter"
+    ],
+    "createdAt": "2026-03-10T15:36:31.039Z"
+  },
+  {
+    "id": "ab92e5f3-05c3-4ad6-941e-6f7f5c09efac",
+    "username": "rajitha",
+    "email": "rajithaburud@gmail.com",
+    "password": "$2a$10$xJGpRiIa4MuaAYl.ymhJk.ycFHwaKoPasTNoixXc/4WkLw/Cn11Qu",
+    "totalPoints": 70,
+    "badges": [
+      "🌱 Eco Beginner"
+    ],
+    "createdAt": "2026-03-10T15:38:58.258Z"
+  }
+]

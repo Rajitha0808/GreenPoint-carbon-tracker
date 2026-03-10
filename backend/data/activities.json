@@ -1,0 +1,74 @@
+[
+  {
+    "id": "92411a36-e616-4402-8424-744ea9ba224e",
+    "userId": "54e7e6de-dd88-49d6-924c-cf6fe92b5d69",
+    "activityName": "Used bus instead of car",
+    "category": "Transport",
+    "points": 20,
+    "date": "2026-03-09T15:37:58.469Z",
+    "co2Saved": 2.5
+  },
+  {
+    "id": "4dada8e9-0067-4407-b2df-1a1ea1d14e71",
+    "userId": "54e7e6de-dd88-49d6-924c-cf6fe92b5d69",
+    "activityName": "Ate a vegan meal",
+    "category": "Food",
+    "points": 15,
+    "date": "2026-03-08T15:37:58.471Z",
+    "co2Saved": 1.8
+  },
+  {
+    "id": "05a80bd8-89a3-4445-825e-0ded25c2d861",
+    "userId": "8c6c695a-752c-472c-aeb9-df693100fef7",
+    "activityName": "Recycled plastic",
+    "category": "Waste",
+    "points": 10,
+    "date": "2026-03-10T15:37:58.471Z",
+    "co2Saved": 0.8
+  },
+  {
+    "id": "9f3aa59b-939e-496c-add2-f36ec5beaf03",
+    "userId": "ab92e5f3-05c3-4ad6-941e-6f7f5c09efac",
+    "activityName": "Used bus instead of car",
+    "category": "Transport",
+    "points": 20,
+    "date": "2026-03-10T16:20:59.140Z",
+    "co2Saved": 2.5
+  },
+  {
+    "id": "a17a681c-8ab4-4850-a99d-2362fc0c29c2",
+    "userId": "ab92e5f3-05c3-4ad6-941e-6f7f5c09efac",
+    "activityName": "Ate vegetarian meal",
+    "category": "Food",
+    "points": 15,
+    "date": "2026-03-10T16:21:08.836Z",
+    "co2Saved": 1.8
+  },
+  {
+    "id": "96cc8cef-c27b-4d1c-adb0-5e2c38af0d11",
+    "userId": "ab92e5f3-05c3-4ad6-941e-6f7f5c09efac",
+    "activityName": "Ate vegetarian meal",
+    "category": "Food",
+    "points": 15,
+    "date": "2026-03-10T16:21:11.512Z",
+    "co2Saved": 1.8
+  },
+  {
+    "id": "7e8f9770-d45c-49cf-99f6-1cdf2d77602b",
+    "userId": "ab92e5f3-05c3-4ad6-941e-6f7f5c09efac",
+    "activityName": "Reused items instead of buying new",
+    "category": "Waste",
+    "points": 10,
+    "date": "2026-03-10T16:21:20.392Z",
+    "co2Saved": 0.8
+  },
+  {
+    "id": "670bfb7e-d6c8-4aea-965f-18309bf1c664",
+    "userId": "ab92e5f3-05c3-4ad6-941e-6f7f5c09efac",
+    "activityName": "Turned off unused lights",
+    "category": "Energy",
+    "points": 10,
+    "date": "2026-03-10T16:21:26.082Z",
+    "co2Saved": 1.2
+  }
+]
